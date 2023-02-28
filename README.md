@@ -1,6 +1,10 @@
 # connect4
 
-\*_note: to see this as it was at the end of the interview, please check the `interview-state` branch._
+_note: to see this as it was at the end of the interview, please check the `interview-state` branch._
+
+**see it live!** https://connect4-wheat.vercel.app/
+
+---
 
 a React-based implementation of the game "connect four".
 
