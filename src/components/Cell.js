@@ -17,7 +17,7 @@ function Cell({ cell, onClick }) {
 
   return (
     <div
-      className={`w-full h-32 bg-yellow-500 flex justify-center items-center ${
+      className={`w-full h-32 bg-yellow-500 flex justify-center items-center border border-yellow-600 ${
         cell.clickable ? "cursor-pointer" : ""
       }`}
       onClick={onClick}

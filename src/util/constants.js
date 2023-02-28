@@ -1,0 +1,58 @@
+const INITIAL_BOARD = [
+  [
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+  ],
+  [
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+  ],
+  [
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+  ],
+  [
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+  ],
+  [
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+    { value: "", clickable: false },
+  ],
+  [
+    { value: "", clickable: true },
+    { value: "", clickable: true },
+    { value: "", clickable: true },
+    { value: "", clickable: true },
+    { value: "", clickable: true },
+    { value: "", clickable: true },
+    { value: "", clickable: true },
+  ],
+];
+
+export { INITIAL_BOARD };
